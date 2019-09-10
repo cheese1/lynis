@@ -33,6 +33,42 @@ os:Debian 8:2020-06-30:1593468000:
 os:Debian 9:2022-01-01:1640991600:
 os:Debian 10:2022-01-01:1640991600:
 #
+# Fedora - https://fedoraproject.org/wiki/End_of_life
+#          https://fedoraproject.org/wiki/Releases
+#          2 actively maintained releases approximately around May 1st and October 31st
+#          maintained for roughly 13 months after release (date -d "$RELEASE + 13 months")
+# 
+os:Fedora Core 1:2004-09-20:1095631200:
+os:Fedora Core 2:2005-04-11:1113170400:
+os:Fedora Core 3:2006-01-16:1137366000:
+os:Fedora Core 4:2006-08-07:1154901600:
+os:Fedora Core 5:2007-07-02:1183327200:
+os:Fedora Core 6:2007-12-07:1196982000:
+os:Fedora 7:2008-06-13:1213308000:
+os:Fedora 8:2009-01-07:1231282800:
+os:Fedora 9:2009-07-10:1247176800:
+os:Fedora 10:2009-12-17:1261004400:
+os:Fedora 11:2010-06-25:1277416800:
+os:Fedora 12:2010-12-02:1291244400:
+os:Fedora 13:2011-06-24:1308866400:
+os:Fedora 14:2011-12-09:1323385200:
+os:Fedora 15:2012-06-26:1340661600:
+os:Fedora 16:2013-02-12:1360623600:
+os:Fedora 17:2013-07-30:1375135200:
+os:Fedora 18:2014-01-14:1389654000:
+os:Fedora 19:2015-01-06:1420498800:
+os:Fedora 20:2015-06-23:1435010400:
+os:Fedora 21:2015-12-01:1448924400:
+os:Fedora 22:2016-07-19:1468879200:
+os:Fedora 23:2016-12-20:1482188400:
+os:Fedora 24:2017-08-08:1502143200:
+os:Fedora 25:2017-12-12:1513033200:
+os:Fedora 26:2018-05-29:1527544800:
+os:Fedora 27:2018-11-30:1543532400:
+os:Fedora 28:2019-05-28:1558994400:
+os:Fedora 29:2019-11-30:1575068400:
+os:Fedora 30:2020-05-29:1590703200:
+#
 # FreeBSD - https://www.freebsd.org/security/unsupported.html
 #
 os:FreeBSD 9.3:2014-12-31:0:
