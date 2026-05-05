@@ -4,7 +4,7 @@
 
 ### Changed
 - Detection of CachyOS
-- Updated end-of-life-database
+- Updated end-of-life database entries
 
 ---------------------------------------------------------------------------------
 
